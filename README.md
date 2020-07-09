@@ -1,8 +1,4 @@
 <html>
-	<head>
-    	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-       	<title>Insert title here</title>
-    </head>
 	<body>
 		<h1>
 			<a href="openApp.jdHealth://virtual?params=%7B%22%20category%22%3A%22jump%22%2C%22des%22%3A%22familyDoctorList%22%2C%22beneficialId%22%3A%22beneficialId%22%2C%22rightId%22%3A%22rightId%22%7D">家庭医生列表</a>
